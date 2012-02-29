@@ -14,7 +14,7 @@
 ##Fordeler med
 #PhoneGap
 
-* Et felles Javascript-API for forskjellige platformer. 
+* Et felles Javascript-API for forskjellige platformer.
 * Man trenger kun en felles kodebase
 
 
@@ -52,11 +52,11 @@
 #I BRUK
 ## Asynkrone kall
     @@@ javascript
-navigator.geolocation.getCurrentPosition(
-	function(position){
-	
-	},
-	function(){
-	
-	}
-);
+    navigator.geolocation.getCurrentPosition(
+      function(position){
+
+      },
+      function(){
+
+      }
+    );
