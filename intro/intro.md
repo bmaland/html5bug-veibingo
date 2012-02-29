@@ -1,6 +1,6 @@
 !SLIDE
 
-# Veingo
+# Veibingo
 
 !SLIDE center bullets incremental
 # Innhold
