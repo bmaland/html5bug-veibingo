@@ -1,24 +1,9 @@
 !SLIDE
 
-# Bedre stylesheets med
-# Sass og Compass
-
-!SLIDE center
-
-# Meg
-
-## Bjørn Arild Mæland
-
-## Reaktor Kyber
+# Veingo
 
 !SLIDE center bullets incremental
 # Innhold
-* CSS
+* Phonegap
+* Backbone
 * Sass
-* Compass
-* Eksempler
-* Bruk i praksis
-
-!SLIDE
-
-## Still spørsmål underveis!
