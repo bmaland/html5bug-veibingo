@@ -1,3 +1,6 @@
+!SLIDE center red
+# Takk for oss!
+
 !SLIDE center
 # Ressurser
 
