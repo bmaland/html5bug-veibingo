@@ -1,0 +1,66 @@
+body {
+  background-color: black;
+  font-family: "Helvetica Neue", Helvetica, serif;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+  font-family: "Helvetica Neue", Helvetica, serif !important;
+}
+
+code, pre {
+  font-family: Inconsolata, Courier, Fixed;
+}
+
+code {
+  font-size: 40px;
+}
+
+code.result {
+  font-size: 36px;
+}
+
+.smaller code {
+  font-size: 32px;
+}
+
+.red {
+  color: red;
+}
+
+.green h1 {
+  color: green;
+}
+
+span.blue {
+  color: blue;
+}
+
+.sh_regexp {
+  color: blue !important;
+}
+
+pre, pre.sh_sourceCode {
+  background-color: transparent;
+}
+
+.slide {
+  background-color: ivory;
+}
+
+.slide, #preso, .slide .center {
+  width: 1024px;
+}
+
+.subsection h1 {
+  background-color: red;
+}
+
+ul {
+  font-weight: bold;
+  list-style: disc outside none;
+}
+
+#footer {
+  display: none;
+}

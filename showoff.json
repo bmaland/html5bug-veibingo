@@ -1,0 +1,12 @@
+{
+  "name": "Skriv bedre stylesheets med Sass og Compass",
+  "sections": [
+    {"section": "intro"},
+    {"section": "css"},
+    {"section": "sass"},
+    {"section": "compass"},
+    {"section": "eksempler"},
+    {"section": "bruk-i-praksis"},
+    {"section": "outro"}
+  ]
+}
