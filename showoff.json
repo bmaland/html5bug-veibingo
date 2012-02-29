@@ -4,6 +4,7 @@
     {"section": "intro"},
     {"section": "phonegap"},
     {"section": "backbone"},
-    {"section": "sass"}
+    {"section": "sass"},
+    {"section": "outro"}
   ]
 }
